@@ -43,3 +43,8 @@ The first step in creating an index is tokenization. So the document is converte
    we apply stemming on it.
 
 The resulting tokens will be used to create the index of all the documents of the directories given in input as explained under "Flow of Norebook" heading.
+
+## What to Install
+As this is a simply python notebook file so you just have to install Annaconda environment along with jupyter notebook. You can install the both of these by following the youtube vedio link provided as below.
+
+https://youtu.be/5mDYijMfSzs
